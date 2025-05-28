@@ -1,4 +1,5 @@
 # py -m venv .venv
+# pip freeze
 # Pytproj app
 
 ## Run the app
